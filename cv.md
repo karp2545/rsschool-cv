@@ -27,3 +27,13 @@ Array.prototype.remove_ = function(integer_list, values_list) {
   return removed;
 }
 ```
+# Education
+
+* **Udemy**
+  * HTML / CSS3
+  * JavaScript
+
+# Languages
+
+* Russian - native speaker
+* English - A2 
